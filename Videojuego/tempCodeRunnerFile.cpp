@@ -1,0 +1,1 @@
+ cout << items[items.size()-1];
